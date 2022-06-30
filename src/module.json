@@ -5,7 +5,7 @@
   "author": "flamableconcrete",
   "url": "https://github.com/ravingdragoon/fvtt-markers",
   "readme": "https://github.com/ravingdragoon/fvtt-markers/blob/main/README.md",
-  "manifest": "https://raw.githubusercontent.com/ravingdragoon/fvtt-markers/main/src/module.json",
+  "manifest": "https://github.com/ravingdragoon/fvtt-markers/blob/main/src/module.json",
   "version": "0.0.12",
   "download": "https://github.com/ravingdragoon/fvtt-markers/releases/download/0.0.12/fvtt-markers-v0.0.12.zip",
   "minimumCoreVersion": "9",
