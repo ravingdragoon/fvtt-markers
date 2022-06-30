@@ -8,10 +8,8 @@
   "manifest": "https://raw.githubusercontent.com/ravingdragoon/fvtt-markers/main/src/module.json",
   "version": "0.0.12",
   "download": "https://github.com/ravingdragoon/fvtt-markers/releases/download/0.0.12/fvtt-markers-v0.0.12.zip",
-  "minimumCoreVersion": "0.5.0",
+  "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
-  "bugs": "https://github.com/flamableconcrete/fvtt-markers/issues",
-  "allowBugReporter": true,
   "packs": [
     {
       "name": "markers-alphabet-lower",
