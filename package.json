@@ -1,6 +1,6 @@
 {
   "name": "foundry-vtt-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "cb": "*",
     "gulp": "*",
